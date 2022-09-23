@@ -1,4 +1,5 @@
 • 19 anos
+<p>
 • Formado no Curso Técnico em Informática integrado ao Ensino Médio pelo IFSP - Campus Cubatão
 • Atualmente, em processo de graduação em Tecnologia em Análise e Desenvolvimento pela UNICAMP
 • Aprendendo Javascript
